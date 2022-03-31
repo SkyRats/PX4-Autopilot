@@ -10,10 +10,6 @@
 	path = Tools/jMAVSim
 	url = https://github.com/PX4/jMAVSim.git
 	branch = master
-[submodule "Tools/sitl_gazebo"]
-	path = Tools/sitl_gazebo
-	url = https://github.com/PX4/PX4-SITL_gazebo.git
-	branch = 6fa6ec78a7a1619b7b90ac0c01aaec919defbe35
 [submodule "src/drivers/gps/devices"]
 	path = src/drivers/gps/devices
 	url = https://github.com/PX4/PX4-GPSDrivers.git
@@ -64,3 +60,6 @@
 	path = src/lib/crypto/libtommath
 	url = https://github.com/PX4/libtommath.git
 	branch = px4
+[submodule "Tools/sitl_gazebo"]
+	path = Tools/sitl_gazebo
+	url = git@github.com:SkyRats/PX4-SITL_gazebo.git
