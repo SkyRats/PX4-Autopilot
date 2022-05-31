@@ -74,6 +74,7 @@ px4_add_romfs_files(
 	3010_quadrotor_x
 	3011_hexarotor_x
 	6969_iris_fpv_cam
+	4200_iris_green_house
 	17001_tf-g1
 	2507_cloudship
 	6011_typhoon_h480

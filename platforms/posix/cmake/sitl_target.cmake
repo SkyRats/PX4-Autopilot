@@ -159,6 +159,7 @@ set(models
 	iris_rplidar
 	iris_vision
 	iris_fpv_cam
+	iris_green_house
 	nxp_cupcar
 	plane
 	plane_cam
