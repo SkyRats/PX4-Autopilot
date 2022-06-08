@@ -60,3 +60,7 @@
 	path = src/lib/crypto/libtommath
 	url = https://github.com/PX4/libtommath.git
 	branch = px4
+[submodule "Tools/sitl_gazebo"]
+	path = Tools/sitl_gazebo
+	url = git@github.com:SkyRats/PX4-SITL_gazebo.git
+	branch = skyrats-ros1
